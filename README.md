@@ -1,7 +1,7 @@
 # Careers in data science AI ML
 
-**Published:** 2023-04-10
-**Medium:** [https://medium.com/@kyle-t-jones/careers-in-data-science-ai-ml-79d672820ec2](https://medium.com/@kyle-t-jones/careers-in-data-science-ai-ml-79d672820ec2)
+Published: 2023-04-10
+Medium: [https://medium.com/@kyle-t-jones/careers-in-data-science-ai-ml-79d672820ec2](https://medium.com/@kyle-t-jones/careers-in-data-science-ai-ml-79d672820ec2)
 
 ## About
 
